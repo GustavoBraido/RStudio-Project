@@ -35,5 +35,3 @@ Data: Title, genre, studio, profitability and ratings for movies released 2007-2
 -Bivariate analysis
 
 ### Exploring Data
-
--

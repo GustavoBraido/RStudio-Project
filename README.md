@@ -6,11 +6,8 @@ Data: Title, genre, studio, profitability and ratings for movies released 2007-2
 
 ## Chart
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]( https://myoctocat.com/assets/images/base-octocat.svg)
-![image](https://user-images.githubusercontent.com/129383432/229180509-93c48050-bc98-4f44-9b5b-3ed78e99e31e.png)
 
 
-![name-of-you-image](https://your-copied-image-address)![image](https://user-images.githubusercontent.com/129383432/229180555-4b6b3684-6f7d-4c52-85fa-b6df75657742.png)
 
 
 

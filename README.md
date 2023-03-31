@@ -6,12 +6,11 @@ Data: Title, genre, studio, profitability and ratings for movies released 2007-2
 
 ## Chart
 
-![](https://your-copied-image-address)![image](https://user-images.githubusercontent.com/129383432/229178906-f6c9f6dd-f0c0-4670-8f93-e36c4d566d55.png)
+![]([https://your-copied-image-address)![image](https://user-images.githubusercontent.com/129383432/229178906-f6c9f6dd-f0c0-4670-8f93-e36c4d566d55.png](https://github.com/GustavoBraido/RStudio-Project/blob/main/Bar%20Chart.png?raw=true))
 
 ![](https://your-copied-image-address)![image](https://user-images.githubusercontent.com/129383432/229178919-3e3aafcc-bad2-4005-93c7-bbe65cc1f6a0.png)
 
 ![](https://your-copied-image-address)![image](https://user-images.githubusercontent.com/129383432/229178931-b499669e-1a4c-4fd5-9b59-1126c206fa9c.png)
-
 
 [Data Source](InformationIsBeautiful.net)
 
